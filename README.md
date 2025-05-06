@@ -86,8 +86,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/devilGamer5802/Scientific-Calculator.git
-    cd Scientific-Calculator
+    git clone https://github.com/devilGamer5802/Advanced-Scientific-Calculator.git
+    cd Advanced-Scientific-Calculator
     ```
 
 2.  **Compile the Java code:**
