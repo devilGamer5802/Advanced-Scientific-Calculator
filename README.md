@@ -23,12 +23,12 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <em>(Replace these placeholders with actual screenshots of your running application!)</em>
+  <em>actual screenshots of your running application!</em>
 </p>
 <table align="center">
   <tr>
-    <td align="center"><strong>Main Interface</strong><br/><img src="https://via.placeholder.com/400x300/D3D3D3/808080?text=Calculator+Main+View" alt="Calculator Main Interface" width="400"/></td>
-    <td align="center"><strong>History Dialog</strong><br/><img src="https://via.placeholder.com/400x300/D3D3D3/808080?text=Calculation+History" alt="History Dialog" width="400"/></td>
+    <td align="center"><strong>Main Interface</strong><br/><img src="MAIN.png" alt="Calculator Main Interface" width="400"/></td>
+    <td align="center"><strong>History Dialog</strong><br/><img src="HISTORY.png" alt="History Dialog" width="400"/></td>
   </tr>
   <!-- Add more screenshots if needed -->
 </table>
