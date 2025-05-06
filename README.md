@@ -139,11 +139,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
+## 👤 Contact
 
-Harsh Anil Tuti - [harshaniltuti@gmail.com](mailto:harshaniltuti@gmail.com)
+**Maintainer:** Harsh Anil Tuti ([@devilGamer5802](https://github.com/devilGamer5802))
 
-Project Link: [https://github.com/devilGamer5802/Scientific-Calculator](https://github.com/devilGamer5802/Scientific-Calculator)
+For project-specific questions, bug reports, or feature requests, please **open an issue** on the repository:
+[https://github.com/devilGamer5802/Advanced-Scientific-Calculator/issues](https://github.com/devilGamer5802/Advanced-Scientific-Calculator/issues)
 
 ---
 
